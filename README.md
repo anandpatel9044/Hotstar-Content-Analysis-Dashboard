@@ -27,7 +27,7 @@ This project focuses on transforming raw Hotstar content data into meaningful in
   - Charts (Bar, Line, Pie)  
   - Slicers (Interactive Filters)  
 - Data Cleaning & Preparation  
-- Dashboard Design & Layout  
+- Dashboard Design  
 
 ---
 
@@ -39,21 +39,12 @@ This project focuses on transforming raw Hotstar content data into meaningful in
   - Total TV Shows  
 
 - 🔹 Genre Distribution  
-  - Identifies most dominant content categories  
-
 - 🔹 Year-wise Trend  
-  - Tracks growth of content over time  
-
 - 🔹 Age Rating Analysis  
-  - Shows audience segmentation  
-
 - 🔹 Runtime Analysis  
-  - Compares average duration across genres  
+- 🔹 TV Show Depth Analysis  
 
-- 🔹 TV Show Depth  
-  - Analyzes average seasons and episodes  
-
-- 🔹 Interactive Slicers  
+- 🔹 Interactive Filters (Slicers)  
   - Genre  
   - Year  
   - Age Rating  
@@ -63,50 +54,51 @@ This project focuses on transforming raw Hotstar content data into meaningful in
 ## 📈 Key Insights
 
 - Drama and Reality are the most dominant genres  
-- Reality shows have higher episode counts, indicating strong binge-watching potential  
-- Content production has significantly increased in recent years  
-- Majority of content targets a broad audience (U/A category)  
-- TV shows in certain genres have higher depth, improving user engagement  
-
----
-
-## 🧠 What I Learned
-
-- Converting raw data into structured insights  
-- Building interactive dashboards using Excel  
-- Designing clean and user-friendly visualizations  
-- Applying data storytelling for business understanding  
+- Reality shows have higher episode counts (binge-friendly content)  
+- Content production has increased significantly over time  
+- Most content targets a broad audience (U/A category)  
 
 ---
 
 ## 📁 Project Files
 
-- 📌 Excel Dashboard File (.xlsx)  
-- 📌 Dataset  
-- 📌 Dashboard Screenshot  
+- 📊 Dashboard File:  
+  👉 https://github.com/anandpatel9044/Hotstar-Content-Analysis-Dashboard/blob/main/hotstar.xlsx  
 
----
-
-## 🔮 Future Improvements
-
-- Rebuild dashboard using Power BI  
-- Add advanced analytics (user engagement metrics)  
-- Improve UI/UX design for better visualization  
+- 🖼️ Dashboard Screenshot:  
+  👉 https://github.com/anandpatel9044/Hotstar-Content-Analysis-Dashboard/blob/main/Screenshot%202026-03-30%20190338.png  
 
 ---
 
 ## 📸 Dashboard Preview
 
-*(Add your dashboard screenshot here)*
+![Dashboard Preview](https://github.com/anandpatel9044/Hotstar-Content-Analysis-Dashboard/blob/main/Screenshot%202026-03-30%20190338.png)
+
+---
+
+## 🧠 What I Learned
+
+- Data cleaning and structuring  
+- Building interactive dashboards in Excel  
+- Using slicers for dynamic filtering  
+- Presenting insights clearly  
+
+---
+
+## 🔮 Future Improvements
+
+- Build this dashboard in Power BI  
+- Add more advanced analytics  
+- Improve dashboard design aesthetics  
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, consider giving it a star ⭐
+If you found this project useful, consider giving it a star ⭐
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
-Open to feedback, suggestions, and collaboration opportunities.
+Open to feedback, suggestions, and opportunities in Data Analytics.
